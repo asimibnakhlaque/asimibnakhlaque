@@ -31,7 +31,7 @@ Here are some of the projects I've worked on:
 ## 🌱 What I'm Learning
 
 - Deepening my skills in backend development using Spring Boot and related technologies.
-- Exploring data wrangling techniques using Python and R.
+- Exploring GenAI.
 
 <!---## 📫 Connect with Me
 
@@ -39,7 +39,7 @@ Here are some of the projects I've worked on:
 
 ## ⚡ Fun Fact
 
-I love solving real-world problems through coding, whether it's synchronizing my PC's clock or building useful CLI tools!
+I love solving real-world problems through coding, whether it's synchronizing my PC's clock, building useful CLI tools or Rest API!
 
 ---
 

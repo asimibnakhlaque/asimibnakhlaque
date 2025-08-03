@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a BCA student with a passion for coding and a 
 
 ## 🛠️ Technologies & Skills
 
-- **Languages:** C, C++, Java, Python
+- **Languages:** Java, Python, C, C++, C#
 - **Web Technologies:** HTML5
-- **Databases:** PostgreSQL, MongoDB
-- **Frameworks & Tools:** Spring Boot, Spring Security, Podman/Docker, Git, GitHub
+- **Databases:** PostgreSQL, MongoDB, MS-SQL
+- **Frameworks & Tools:** Spring Boot, Spring Security, .NET, Podman/Docker, Git, GitHub
 - **Other Skills:** Exploring GenAI and LLMs
   
 ## 🌱 What I'm Learning

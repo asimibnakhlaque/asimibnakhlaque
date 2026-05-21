@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Software Developer with a passion for coding
 - **Languages:** Java, Python, C, C++, C#
 - **Web Technologies:** HTML5
 - **Databases:** PostgreSQL, MongoDB, MS-SQL
-- **Frameworks & Tools:** Spring Boot, Spring Security, .NET, Podman/Docker, Git, GitHub
+- **Frameworks & Tools:** Spring Boot, Spring Security, .NET, FastAPI, Podman/Docker, Git, GitHub, google-genai-sdk.
 - **Other Skills:** Exploring GenAI and LLMs
   
 ## 🌱 What I'm Learning

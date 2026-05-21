@@ -1,6 +1,6 @@
 # Hi there, I'm Asim Ansari 👋
 
-Welcome to my GitHub profile! I'm a BCA student with a passion for coding and a keen interest in software development, backend systems.
+Welcome to my GitHub profile! I'm a Software Developer with a passion for coding,architecturing and a keen interest in software development, backend systems.
 
 ## 🛠️ Technologies & Skills
 
